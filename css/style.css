@@ -17,6 +17,7 @@ body {
   padding: 20px;
   margin: auto;
   width: 50%;
+  box-shadow: inset 120px 100px 250px #000,inset -120px -100px 250px #000;
 }
 
 .container-height {
